@@ -1,0 +1,69 @@
+{
+    "name": "Avetio",
+    "description": "<p>Avetio SMS text message service makes easy to instantly reach and engage your customers and community by text service. We easily deliver Text Message information, alerts &amp; offers to all your contacts in seconds.Get your business moving with the power of SMS. Bulk SMS is quickly becoming the channel of choice when you want people to hear what you have to say. Unlike email, SMS is very personal and always gets eyeballs. It is short so does not have a time commitment barrier to read. SMS is fast, reliable and very interactive. Burst SMS gives you a reliable and easy way to execute campaigns at prices with super cheap SMS rates. We have the best possible international routing to compete head on with local SMS connections at a fraction of the cost. Our web SMS interface is the best on the market, it's so easy to use it takes just minutes to get up and running.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1240-avetio.jpg",
+    "tags": [
+        "api provider",
+        "bulk",
+        "gateway",
+        "global",
+        "have api",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/avetio\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Avetio",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1240-avetio.jpg",
+            "humanURL": "https:\/\/www.avetio.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/avetio-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/avetio-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.burstsms.com.au"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.avetio.com\/blog\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/burst-sms"
+        },
+        {
+            "type": "Email",
+            "url": "hello@avetio.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@avetio.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/avetio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.avetio.com"
+        }
+    ]
+}
