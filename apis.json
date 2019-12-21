@@ -11,8 +11,8 @@
         "networks",
         "telecommunications"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/avetio\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -26,17 +26,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/avetio-openapi.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/avetio-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/avetio\/master\/avetio-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "http:\/\/blog.burstsms.com.au"
